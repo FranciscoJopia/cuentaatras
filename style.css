@@ -6,8 +6,10 @@
 
 body {
 	background: #efd7a3;
-	color: #363639;
+	color: #2c1f14;
     font-family: 'Work Sans', sans-serif;
+	background-image: url("https://concepto.de/wp-content/uploads/2013/05/tiempo-2-1-e1590450612212.jpg");
+	background-size: cover;
 }
 
 
